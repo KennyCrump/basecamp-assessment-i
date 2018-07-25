@@ -6,6 +6,8 @@
  The location of `boot.js` can be specified and/or overridden in `jasmine.yml`.
 
  [jasmine-gem]: http://github.com/pivotal/jasmine-gem
+
+ TESTING GITPUSH - DELETE
  */
 
 (function() {
